@@ -1,99 +1,55 @@
-# 👋 Hi, I'm Yoel Suryo Putro Darmawan
+# Data Scientist
 
-**Geodetic Engineering graduate** specializing in terrestrial & hydrographic surveying, remote sensing, photogrammetry, and GIS. I enjoy turning geospatial data into clear, useful maps, dashboards, and insights with Python and modern geo-tools.
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-- 📍 Semarang, Central Java, Indonesia  
-- 📫 yoelpoetro@gmail.com  
-- 💼 Open to roles: Surveyor • GIS Analyst • Photogrammetrist • Data/Geo Analyst
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
----
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-## 🎯 About Me
-A diligent and adaptable engineer with hands-on experience across measurement, data acquisition, and processing. Comfortable collaborating in teams, and proficient with Python and SQL for geospatial workflows.
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
----
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-## 🧭 Featured Projects
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-### 1) Coastline Extraction: SBES vs Satellite-Derived Bathymetry (SDB)
-*Nov 2024 – Apr 2025*  
-Comparative analysis of coastline extraction using SBES and SDB in Tanjung Karis, North Kalimantan.  
-**Keywords:** Coastal mapping, SBES, SDB, shoreline, validation  
-**Repo idea:** `/coastline-extraction-sbes-vs-sdb` – notebooks, data schema, QA/QC, results.  :contentReference[oaicite:1]{index=1}
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
----
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-### 2) WebGIS for MSME Distribution — Bejalen Village
-*Aug 2024 – Dec 2025*  
-Designed a simple WebGIS interface and produced a distribution map for local MSMEs.  
-**Stack ideas:** Leaflet/MapLibre, GeoJSON, GitHub Pages, minimal CI for data updates.  
-**Repo idea:** `/bejalen-msme-webgis` – map app + data folder.  :contentReference[oaicite:2]{index=2}
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
----
+![Bike Study](/assets/img/bike_study.jpeg)
 
-### 3) InSAR Deformation (LiCSBAS & GMTSAR)
-*Sep 2024 – Dec 2024*  
-Pre/post-disaster Sentinel-1 InSAR processing for land subsidence over a wide area using Linux (WSL) and Google Colab.  
-**Repo idea:** `/insar-licsbas-gmtsar` – processing steps, parameter files, quicklook PNGs.  :contentReference[oaicite:3]{index=3}
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
----
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## 💼 Experience
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-**Indonesian Geospatial Information Agency (BIG) — Directorate of Topographic Mapping (Marine & Coastal)**  
-*Intern | Jul 2024 – Aug 2024*  
-- Research on coastline extraction (SDB vs SfM)  
-- 3D reconstruction of BIG environment area  :contentReference[oaicite:4]{index=4}
-
-**Sidework Freelance — Building Digitization (Ciputat, South Tangerang)**  
-*Nov 11–14, 2024*  
-- Building footprints digitization for photogrammetry contractor  :contentReference[oaicite:5]{index=5}
-
-**Sidework Freelance — Building Digitization (Gianyar, Bali)**  
-*Sep 26 – Oct 6, 2024*  
-- Digitizing buildings for ATR/BPN Gianyar project  :contentReference[oaicite:6]{index=6}
-
-**National Land Agency (BPN) — Magelang Regency**  
-*Intern | Jul – Aug 2022*  
-- Land data digitization, PTSL boundary measurements  :contentReference[oaicite:7]{index=7}
-
----
-## 🎓 Education
-
-**Diponegoro University — Geodetic Engineering (S.T.)** — GPA 3.10  
-*Graduated 2025*  :contentReference[oaicite:8]{index=8}
-
----
-
-## 🛠️ Skills
-
-**Remote Sensing & GIS**  
-ArcGIS • QGIS • Google Earth Engine • SNAP • ENVI • Global Mapper • Satellite Imagery • Geospatial Data
-
-**Programming & Scripting**  
-Python • pandas • GeoPandas • SQL • Semantic HTML
-
-**Surveying & CAD**  
-Total Station • AutoCAD Civil 3D • Microsoft Excel
-
-**Photogrammetry**  
-Agisoft Metashape • PCI Geomatics • Pix4D  :contentReference[oaicite:9]{index=9}
-
----
-
-## 📌 Quick Links
-
-- 🌐 Portfolio/Pages: *(add when ready)*  
-- 🧪 Notebooks: *(link to your analysis repos)*  
-- 🔗 LinkedIn: *(add your profile)*
-
----
-
-## 📦 Repo Suggestions (to pin)
-
-- `coastline-extraction-sbes-vs-sdb` — analysis + report  
-- `bejalen-msme-webgis` — static WebGIS (Leaflet/MapLibre)  
-- `insar-licsbas-gmtsar` — processing pipeline + results  
-- `photogrammetry-building-digitization` — workflow notes, sample data schema
-
----
+- [Data Science Blog](https://medium.com/@shawhin)
