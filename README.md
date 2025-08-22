@@ -4,7 +4,7 @@
 
 I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic and practical foundation in geospatial science. I have developed hands-on skills in GIS, remote sensing, and land surveying. I am proficient in using geospatial software such as ArcGIS, QGIS, Google Earth Engine, AutoCAD, Agisoft Metashape, and Python for spatial data processing, analysis, and visualization. My technical competencies also include operating surveying instruments such as waterpass, theodolite, total station, and GNSS to support accurate field data collection and mapping.
 
-## Education
+## Working Experience
 - Internship at the Indonesian Geospatial Information Agency Division 
 of the Directorate of Topographic Mapping of Marine and Coastal 
 Areas | 01 July 2024 to 23 August 2024 							       		
