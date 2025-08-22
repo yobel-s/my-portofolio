@@ -1,4 +1,4 @@
-# Data Scientist
+# Yoel Suryo
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
