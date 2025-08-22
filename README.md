@@ -5,9 +5,15 @@
 I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic and practical foundation in geospatial science. I have developed hands-on skills in GIS, remote sensing, and land surveying. I am proficient in using geospatial software such as ArcGIS, QGIS, Google Earth Engine, AutoCAD, Agisoft Metashape, and Python for spatial data processing, analysis, and visualization. My technical competencies also include operating surveying instruments such as waterpass, theodolite, total station, and GNSS to support accurate field data collection and mapping.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Internship at the Indonesian Geospatial Information Agency Division 
+of the Directorate of Topographic Mapping of Marine and Coastal 
+Areas  | The University of Texas at Dallas (_May 2022_)								       		
+- Sidework Freelance  
+Building Digitization in Ciputat Area, South Tangerang 	| The University of Texas at Dallas (_December 2019_)	 			        
+- Sidework Freelance  
+Building Digitization in Gianyar Regency, Bali  | The University of Texas at Dallas (_May 2017_)
+- Internship at the National Land Agency, Land Office, Magelang 
+Regency, Central Java Province | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
