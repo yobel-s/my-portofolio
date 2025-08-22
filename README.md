@@ -39,7 +39,7 @@ Regency, Central Java Province** (Juli 2022 - August 2022)
 
 - The implementation of the work camp course carried out mapping of the distribution of MSMEs in Bejalen Village, Semarang Regency.
 
-- **[Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://umkmdesabejalen.wixsite.com/pemetaan-umkm-desa-b))**
+- **[Publication](https://umkmdesabejalen.wixsite.com/pemetaan-umkm-desa-b)**
 - ![image](/assets/images/)
 
 **LiCSBAS Insar processing data and GMTSAR for deformation detection using Windows Terminal Linux and Google Colab**
