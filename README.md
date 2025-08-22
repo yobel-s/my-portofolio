@@ -36,21 +36,21 @@ Regency, Central Java Province** (Juli 2022 - August 2022)
 
 - Comparative research on coastline extraction results between SBES and SDB data processing in the research area to fulfill the final assignment 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 **Designing WebGIS interface and MSME distribution map in Bejalen Village, Semarang Regency**
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 - The implementation of the work camp course carried out mapping of the distribution of MSMEs in Bejalen Village, Semarang Regency.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- ![Bike Study](/assets/img/bike_study.jpeg)
 
 **LiCSBAS Insar processing data and GMTSAR for deformation detection using Windows Terminal Linux and Google Colab**
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 - Conduct pre- and post-disaster processing of Sentinel-1 InSAR data for land subsidence estimation over a wide area. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Software Knowledge
 - **Remote Sensing and GIS Data Processing**  
