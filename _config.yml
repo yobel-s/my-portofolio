@@ -1,5 +1,8 @@
-title: Yoel Suryo
+title: MY Portofolio
 logo: images/profile-icon.png
+name: "Yoel Suryo"
+bio: "I am a man with many interests but no mastery in any of them."
 description: Geodetic Engineering | GIS Surveyor and Spatial Data Analyst | WebGIS Developer Enthusiast | Data & Mapping Enthusiast
+location: "Semarang"
 show_downloads: false
 theme: jekyll-theme-minimal
