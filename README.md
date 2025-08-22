@@ -5,8 +5,9 @@
 I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic and practical foundation in geospatial science. I have developed hands-on skills in GIS, remote sensing, and land surveying. I am proficient in using geospatial software such as ArcGIS, QGIS, Google Earth Engine, AutoCAD, Agisoft Metashape, and Python for spatial data processing, analysis, and visualization. My technical competencies also include operating surveying instruments such as waterpass, theodolite, total station, and GNSS to support accurate field data collection and mapping.
 
 ## Education
-Bachelor of Geodesy Engineering (S.T.) | Diponegoro University of Indonesia | (27 November 2024 to 25 April 2025)
-Mathematics and Natural Sciences       | SMA N 13 Semarang                  | (_December 2019_)	 			        		
+Bachelor of Geodesy Engineering (S.T.) | Diponegoro University of Indonesia | (November 2024 - April 2025)
+
+Mathematics and Natural Sciences       | SMA N 13 Semarang                  | (December 2019)	 			        		
 
 ## Work Experience
 **Internship at the Indonesian Geospatial Information Agency Division 
@@ -28,7 +29,7 @@ Regency, Central Java Province** (Juli 2022 - August 2022)
 - PTSL measurement of land plot boundaries in Magelang Regency
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Coastline Extraction Using SBES Data and Satellite Derived Bathymetry (Case Study: Tanjung Karis Coast, North Kalimantan
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
