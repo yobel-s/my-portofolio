@@ -16,20 +16,16 @@ Areas** (July 2024 - August 2024 )
 - Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area" 
 
 **Sidework Freelance - Building Digitization in Ciputat Area, South Tangerang** (November 2024 - November 2024)
-- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
-- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area"
+- Digitizing buildings in the Ciputat project area by a photogrammetry contractor in 
+Surabaya City. 
 
-**Internship at the Indonesian Geospatial Information Agency Division 
-of the Directorate of Topographic Mapping of Marine and Coastal 
-Areas** (July 2024 - August 2024 )
-- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
-- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area"
+**Sidework Freelance - Building Digitization in Gianyar Regency, Bali** (September 2024 - Oktober 2024)
+- Digitizing buildings in the Gianyar Bali area, a project by ATR/BPN Gianyar Bali. 
 
-**Internship at the Indonesian Geospatial Information Agency Division 
-of the Directorate of Topographic Mapping of Marine and Coastal 
-Areas** (July 2024 - August 2024 )
-- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
-- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area"
+**Internship at the National Land Agency, Land Office, Magelang 
+Regency, Central Java Province** (Juli 2022 - August 2022)
+- Digitization of land data in Magelang Regency
+- PTSL measurement of land plot boundaries in Magelang Regency
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
