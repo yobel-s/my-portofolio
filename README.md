@@ -32,7 +32,7 @@ Regency, Central Java Province** (Juli 2022 - August 2022)
 
 ## Projects
 **Coastline Extraction Using SBES Data and Satellite Derived Bathymetry (Case Study: Tanjung Karis Coast, North Kalimantan**
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**[Publication](https://www.mdpi.com/1424-8220/22/8/3048)**
 
 - Comparative research on coastline extraction results between SBES and SDB data processing in the research area to fulfill the final assignment 
 
