@@ -4,15 +4,16 @@
 
 I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic and practical foundation in geospatial science. I have developed hands-on skills in GIS, remote sensing, and land surveying. I am proficient in using geospatial software such as ArcGIS, QGIS, Google Earth Engine, AutoCAD, Agisoft Metashape, and Python for spatial data processing, analysis, and visualization. My technical competencies also include operating surveying instruments such as waterpass, theodolite, total station, and GNSS to support accurate field data collection and mapping.
 
-## Working Experience
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education
+- Geodesy Engineering/Bachelor of Engineering (S.T.) | Diponegoro University of Indonesia (27 November 2024 to 25 April 2025)			   
+- Mathematics and Natural Sciences	| SMA N 13 Semarang (_December 2019_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Internship at the Indonesian Geospatial Information Agency Division 
+of the Directorate of Topographic Mapping of Marine and Coastal 
+Areas (01 July 2024 to 23 August 2024 )**
+- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
+- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area" 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
