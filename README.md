@@ -31,25 +31,25 @@ Regency, Central Java Province** (Juli 2022 - August 2022)
 - PTSL measurement of land plot boundaries in Magelang Regency
 
 ## Projects
-**Coastline Extraction Using SBES Data and Satellite Derived Bathymetry (Case Study: Tanjung Karis Coast, North Kalimantan**
-**[Publication](https://www.mdpi.com/1424-8220/22/8/3048)**
+**Coastline Extraction Using SBES Data and Satellite Derived Bathymetry (Case Study: Tanjung Karis Coast, North Kalimantan)**
 
 - Comparative research on coastline extraction results between SBES and SDB data processing in the research area to fulfill the final assignment 
 
-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- **[Publication](https://www.mdpi.com/1424-8220/22/11/4240)**
+- ![Bike Study](/assets/img/bike_study.jpeg)
 
 **Designing WebGIS interface and MSME distribution map in Bejalen Village, Semarang Regency**
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 - The implementation of the work camp course carried out mapping of the distribution of MSMEs in Bejalen Village, Semarang Regency.
 
+- **[Publication](https://www.mdpi.com/1424-8220/22/11/4240)**
 - ![Bike Study](/assets/img/bike_study.jpeg)
 
 **LiCSBAS Insar processing data and GMTSAR for deformation detection using Windows Terminal Linux and Google Colab**
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 - Conduct pre- and post-disaster processing of Sentinel-1 InSAR data for land subsidence estimation over a wide area. 
 
+- **[Publication](https://www.mdpi.com/1424-8220/22/11/4240)**
 - ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Software Knowledge
