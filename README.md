@@ -15,9 +15,21 @@ Areas** (July 2024 - August 2024 )
 - Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
 - Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area" 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Sidework Freelance - Building Digitization in Ciputat Area, South Tangerang** (November 2024 - November 2024)
+- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
+- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area"
+
+**Internship at the Indonesian Geospatial Information Agency Division 
+of the Directorate of Topographic Mapping of Marine and Coastal 
+Areas** (July 2024 - August 2024 )
+- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
+- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area"
+
+**Internship at the Indonesian Geospatial Information Agency Division 
+of the Directorate of Topographic Mapping of Marine and Coastal 
+Areas** (July 2024 - August 2024 )
+- Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
+- Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area"
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
