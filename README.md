@@ -7,13 +7,13 @@ I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic 
 ## Education
 - Internship at the Indonesian Geospatial Information Agency Division 
 of the Directorate of Topographic Mapping of Marine and Coastal 
-Areas  | The University of Texas at Dallas (_May 2022_)								       		
+Areas  | 01 July 2024 to 23 August 2024 							       		
 - Sidework Freelance  
-Building Digitization in Ciputat Area, South Tangerang 	| The University of Texas at Dallas (_December 2019_)	 			        
+Building Digitization in Ciputat Area, South Tangerang 	| 11 November 2024 to 14 November 2024 	 			        
 - Sidework Freelance  
-Building Digitization in Gianyar Regency, Bali  | The University of Texas at Dallas (_May 2017_)
+Building Digitization in Gianyar Regency, Bali  | 26 September 2024 to 6 Oktober 2024
 - Internship at the National Land Agency, Land Office, Magelang 
-Regency, Central Java Province | The University of Texas at Dallas (_May 2017_)
+Regency, Central Java Province | 04 Juli 2022 to 01 August 2022 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
