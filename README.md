@@ -5,10 +5,10 @@
 I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic and practical foundation in geospatial science. I have developed hands-on skills in GIS, remote sensing, and land surveying. I am proficient in using geospatial software such as ArcGIS, QGIS, Google Earth Engine, AutoCAD, Agisoft Metashape, and Python for spatial data processing, analysis, and visualization. My technical competencies also include operating surveying instruments such as waterpass, theodolite, total station, and GNSS to support accurate field data collection and mapping.
 
 ## Working Experience
-- Internship at the Indonesian Geospatial Information Agency Division of the Directorate of Topographic Mapping of Marine and Coastal Areas  |  (01 July 2024 to 23 August 2024) 							       		
-- Sidework Freelance Building Digitization in Ciputat Area, South Tangerang  |  (11 November 2024 to 14 November 2024) 	 			 
-- Sidework Freelance Building Digitization in Gianyar Regency, Bali | (26 September 2024 to 6 Oktober 2024)
-- Internship at the National Land Agency, Land Office, Magelang Regency, Central Java Province  |  (04 Juli 2022 to 01 August 2022) 
+- Internship at the Indonesian Geospatial Information Agency Division of the Directorate of Topographic Mapping of Marine and Coastal Areas  |  (_01 July 2024 to 23 August 2024_) 							       		
+- Sidework Freelance Building Digitization in Ciputat Area, South Tangerang  |  (_11 November 2024 to 14 November 2024_) 	 			 
+- Sidework Freelance Building Digitization in Gianyar Regency, Bali | (_26 September 2024 to 6 Oktober 2024_)
+- Internship at the National Land Agency, Land Office, Magelang Regency, Central Java Province  |  (_04 Juli 2022 to 01 August 2022_) 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
