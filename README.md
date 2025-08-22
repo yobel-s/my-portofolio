@@ -11,7 +11,7 @@ I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic 
 ## Work Experience
 **Internship at the Indonesian Geospatial Information Agency Division 
 of the Directorate of Topographic Mapping of Marine and Coastal 
-Areas** ~ (01 July 2024 to 23 August 2024 )
+Areas** (01 July 2024 to 23 August 2024 )
 - Practical Work Research with the topic "Comparative Analysis of Coastline Extraction Results Using the SDB Method with SFM" 
 - Research "3D Model Reconstruction of the Geospatial Information Agency Environmental Area" 
 
