@@ -6,9 +6,9 @@ I am a Geodetic Engineering graduate (Bachelor's Degree) with a strong academic 
 
 ## Education
 
- Bachelor of Geodesy Engineering (S.T.) | Diponegoro University of Indonesia | (November 2024 - April 2025)
+ Bachelor of Geodesy Engineering (S.T.) | Diponegoro University              | November 2024 - April 2025
 
- Mathematics and Natural Sciences       | SMA N 13 Semarang                  | (December 2019)	 			        		
+ Mathematics and Natural Sciences       | SMA N 13 Semarang                  | December 2019	 			        		
 
 ## Work Experience
 **Internship at the Indonesian Geospatial Information Agency Division 
